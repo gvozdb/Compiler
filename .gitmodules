@@ -1,0 +1,3 @@
+[submodule "core/components/compiler/munee"]
+    path = core/components/compiler/munee
+    url = https://github.com/meenie/munee.git
